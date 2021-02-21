@@ -14,7 +14,7 @@ const int OUT1 = 5;
 const int OUT2 = 4;
 const int OUT3 = 0;
 int output_Pins[] = {OUT0, OUT1, OUT2, OUT3};
-//Test
+
 String readState()
 {
   String output_3, output_2, output_1, output_0; // {OUT3, OUT2, OUT1, OUT0}
